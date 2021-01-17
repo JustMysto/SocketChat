@@ -1,2 +1,2 @@
 # SocketChat
-a lightweight chat implementation with socket.io &amp; vue.js
+🔥 a lightweight chat implementation with vue.js, node.js & socket.io 🔥
