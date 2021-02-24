@@ -1,8 +1,8 @@
 {
-  "name": "SocketChat",
+  "name": "socketchat",
   "version": "1.0.0",
-  "description": "🔥 a lightweight chat implementation with socket.io &amp; vue.js 🔥",
-  "main": "index.js",
+  "description": "🔥 a lightweight chat implementation with vue.js, node.js & socket.io 🔥",
+  "main": "chat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/JustMysto/SocketChat.git"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JustMysto/SocketChat/issues"
   },
   "homepage": "https://github.com/JustMysto/SocketChat#readme",
   "dependencies": {
-    "vue": "^2.6.12"
+    "express": "^4.16.3",
+    "socket.io": "^3.1.1"
   }
 }
